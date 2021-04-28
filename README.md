@@ -31,7 +31,7 @@ Everything here is explained in detail so you can easily understand it and move 
 
 ### Task 3
 -----
-###Navigation and scan types
+### Navigation and scan types
 
 So after we installed our Nessus and we are on the site, let's find out how to control it!
 
