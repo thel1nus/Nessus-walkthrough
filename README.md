@@ -15,7 +15,7 @@ Everything here is explained in detail so you can easily understand it and move 
 - ##### [What menu allows us to change plugin properties such as hiding them or changing their severity?](https://github.com/malware-borec/Nessus/-walkthrough/README.md/)
 - ##### [In the ‘Scan Templates’ section after clicking on ‘New Scan’, what scan allows us to see simply what hosts are alive?](Github.com)
 - ##### [One of the most useful scan types, which is considered to be 'suitable for any host'?](https://github.com/malware-borec/Nessus/-walkthrough/README.md)
-- ##### [h2 What scan is specifically used for scanning Web Applications?](https://github.com/malware-borec/Nessus/-walkthrough/README.md)
+- ##### [What scan is specifically used for scanning Web Applications?](https://github.com/malware-borec/Nessus/-walkthrough/README.md)
 - ## [Task 4](https://github.com/malware-borec/Nessus/-walkthrough/README.md)
 - ##### [Create a new ‘Basic Network Scan’ targeting the deployed VM. What option can we set under ‘BASIC’ (on the left) to set a time for this scan to run? This can be very useful when network congestion is an issue.](https://github.com/malware-borec/Nessus/-walkthrough/README.md)
 - ##### [Under ‘DISCOVERY’ (on the left) set the ‘Scan Type’ to cover ports 1-65535. What is this type called?](https://github.com/malware-borec/Nessus/-walkthrough/README.md)
